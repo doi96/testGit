@@ -1,4 +1,3 @@
 <?php 
-echo "Hello php branch 1" 
-    echo "cong ty sun sao siêu xịn xò";
+echo "Hello php branch 1 và branch 2"
 ?>
